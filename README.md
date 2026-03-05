@@ -24,3 +24,4 @@ Compress and downscale your videos using **MediaCodec hardware acceleration** di
 - **Termux**  
 - **Python 3** (already included in Termux):  
 ```bash
+pkg install python
