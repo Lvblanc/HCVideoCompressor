@@ -1,6 +1,4 @@
 # HCVideoCompressor
-“Smart video compressor for Termux using Android MediaCodec hardware acceleration.”
-# TermuxVideoCompressor
 
 🎬 **Smart, fast, and easy video compressor for Android Termux!**  
 Compress and downscale your videos using **MediaCodec hardware acceleration** directly on your device. Perfect for saving storage without losing quality.
