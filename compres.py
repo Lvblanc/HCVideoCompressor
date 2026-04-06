@@ -152,7 +152,7 @@ def print_header(clear: bool = True):
     console.print()
     console.print(Panel(
         Align.center(Text.assemble(
-            Text("⚡ SMART VIDEO COMPRESSOR  v7\n", style=f"bold {CA}"),
+            Text("⚡ SMART VIDEO COMPRESSOR  \n", style=f"bold {CA}"),
             Text(
                 f"{HW_ENCODER}  ·  CRF SW Fallback  ·  "
                 f"HW-Calibrated  ·  Custom Bitrate & FPS",
